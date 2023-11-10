@@ -1,0 +1,3 @@
+k = "DKINGZ"
+print(k)
+
